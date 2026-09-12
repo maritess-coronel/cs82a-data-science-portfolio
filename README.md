@@ -1,1 +1,4 @@
-# cs82a-data-science-portfolio
+#Maritess Coronel Data Science Portfolio
+Santa Monica College CS82A Labs and Final Project - Fall 2026
+## Contents 
+- Module 2: Python Foundations 
