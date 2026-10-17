@@ -6,3 +6,5 @@ Santa Monica College CS82A Labs and Final Project - Fall 2026
 - Module 4: Statistics
 - Module 5: Visualization and Statistical Analysis
 - Module 6: SQL and Databases
+- Module 7: Machine Learning
+- Module 8: Working with AI
