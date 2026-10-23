@@ -9,3 +9,4 @@ Santa Monica College CS82A Labs and Final Project - Fall 2026
 - Module 07: Machine Learning
 - Module 08: Working with AI
 - Module 09: In the Cloud
+FINAL PROJECT
